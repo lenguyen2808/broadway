@@ -1,0 +1,40 @@
+html{
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+
+
+.header{
+  color:white;
+  background-image:url(../picture-video/the-flatiron-building.png);
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+  line-height:200%;
+}
+
+div{
+  display:block;
+}
+
+.header h1{
+  font-size: 70px;
+  padding-top: 20px;
+}
+
+.nav{
+  color: white;
+}
+
+.hero{
+  font-size:70px;
+  padding: 661.90
+
+}
+
+.footer{
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
